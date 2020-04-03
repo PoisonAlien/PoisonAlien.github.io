@@ -1,13 +1,14 @@
 body {
   margin: 40px;
   font-family: monospace;
-  background-color: #707070;
+  /*background-color: #707070;*/
+  background: #031321;
 }
 
 .wrapper {
   display: grid;
   grid-template-columns: 2fr 3fr 3fr 1fr;
-  background-color: #707070;
+  background-color: #031321;
   color: white;
   column-gap: 1em;
   row-gap: 1em;
@@ -27,7 +28,7 @@ body {
   grid-column-start: 5;
   grid-column-end: 6;
   justify-items: right;
-  grid-template-columns: repeat(4, 0.5fr);
+  grid-template-columns: repeat(5, 0.5fr);
 }
 
 .aboutme {
@@ -135,10 +136,22 @@ a:link {
   color: #82d305;
   background-color: transparent;
   text-decoration: none;
+  letter-spacing: 1px;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: #255784;
+  background: #2196f3;
+  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
 }
 
 a:visited {
   color: #82d305;
   background-color: transparent;
   text-decoration: none;
+}
+
+footer {
+  color: white;
 }
