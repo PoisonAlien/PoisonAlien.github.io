@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Anand Mayakonda
+title: Bioinformatics and Cancer Genomics
+email: anandmt3@gmail.com
+website: https://poisonalien.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: anand_mt
+github_username: poisonalien
+orcid_username: 0000-0003-1162-687X
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: anand-mayakonda-538a4617b
+darkmode: true
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello there! Thank you for visiting my resume. I am Anand and, I am a PhD student working on **Genomics and Epigenomics of T-ALL**. I specialize in genomics of myeloid and lymphoid malignancies. My research interests are in the biology of leukemia, MRD, clonal evolution, and PROTACs. Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Academic research you can also find me on [Biostars](https://www.biostars.org/u/6030/). My other hobbies are, 
+   - Reading: checkout my bookshelf on [goodreads](https://www.goodreads.com/user/show/84549956-anand-mayakonda)
+   - Running: checkout my runs on [strava](https://www.strava.com/athletes/62414122)
 
 # Footer
 footer_show_references: true
@@ -57,4 +55,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag

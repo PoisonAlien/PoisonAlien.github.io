@@ -1,8 +1,23 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: maftools
+  github: poisonalien/maftools
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    <mark>maftools</mark> is an **R** package for analysing data from large-scale cancer genome projects. This package attempts to summarize, analyze, annotate and visualize [MAF](https://docs.gdc.cancer.gov/Data/File_Formats/MAF_Format/) files in an efficient manner either from TCGA sources or any in-house studies.
+
+- layout: top-middle
+  name: methrix
+  github: CompEpigen/methrix
+  description: | # this will include new lines to allow paragraphs
+    <mark>Methrix</mark> is an **R** package for fast and flexible DNA methylation analysis. It reads bedGraph files from bisulfite sequening results and aggregates them into coverage/beta value matrices. It supports both in-memory and on-disk h5 arrays.
+
+- layout: top-middle
+  name: TCGAmutations
+  github: poisonalien/TCGAmutations
+  description: | # this will include new lines to allow paragraphs
+    Ever tried working with TCGA mutation datasets? It’s a real pain in the posterior. Well, this package tries to mitigate the issue by providing pre-compiled, curated somatic mutations from 33 TCGA cohorts along with relevant clinical information for all sequenced samples (from [Broad Firehose](http://firebrowse.org/) and TCGA [MC3](https://gdc.cancer.gov/about-data/publications/mc3-2017) Project)
+
+- layout: top-middle
+  name: basecounts
+  github: PoisonAlien/basecounts
+  description: | # this will include new lines to allow paragraphs
+    <mark>basecounts</mark> is a command line tool written in <mark>Rust</mark> to extract nucleotide counts from BAM files for user specific loci. This tool can also be used to generate VAF table for known somatic varaints without the proper variant calling.
