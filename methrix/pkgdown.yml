@@ -1,0 +1,13 @@
+pandoc: 2.3.1
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  02-Import: 02-Import.html
+  03-QC_reports: 03-QC_reports.html
+  04-DMRs: 04-DMRs.html
+  05-Large_cohorts: 05-Large_cohorts.html
+  06-Export: 06-Export.html
+  07-Reader_FAQ: 07-Reader_FAQ.html
+  methrix: methrix.html
+last_built: 2020-10-14T12:39Z
+
