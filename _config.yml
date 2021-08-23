@@ -26,7 +26,8 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there! Thank you for visiting my resume. I am Anand and, I am a PhD student working on **Genomics and Epigenomics of T-ALL**. I specialize in genomics of myeloid and lymphoid malignancies. My research interests are in the biology of leukemia, MRD, clonal evolution, and PROTACs. Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
+  Hello there! Thank you for visiting my resume. I am Anand and, I am a Post-doc working on **Genomics and Epigenomics** genomics of myeloid and lymphoid malignancies.
+  My research interests are in the biology of leukemia, MRD, clonal evolution, and PROTACs. Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
 
 # Projects Section
 # projects_title: Projects

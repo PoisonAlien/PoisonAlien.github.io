@@ -17,7 +17,7 @@
     Ever tried working with TCGA mutation datasets? It’s a real pain in the posterior. Well, this package tries to mitigate the issue by providing pre-compiled, curated somatic mutations from 33 TCGA cohorts along with relevant clinical information for all sequenced samples (from [Broad Firehose](http://firebrowse.org/) and TCGA [MC3](https://gdc.cancer.gov/about-data/publications/mc3-2017) Project)
 
 - layout: top-middle
-  name: basecounts
-  github: PoisonAlien/basecounts
+  name: somaticfreq
+  github: PoisonAlien/somaticfreq
   description: | # this will include new lines to allow paragraphs
-    <mark>basecounts</mark> is a command line tool written in <mark>Rust</mark> to extract nucleotide counts from BAM files for user specific loci. This tool can also be used to generate VAF table for known somatic varaints without the proper variant calling.
+    <mark>somaticfreq</mark> is a command line tool written in <mark>C</mark> which facilitates to get a quick overlook of known somatic hot-spots from tumor BAM files in a matter of minutes, without spending hours on variant calling and annotation.
