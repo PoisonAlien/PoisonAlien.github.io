@@ -4,7 +4,7 @@
   qualification: PhD-Cancer EpiGenomics
   description: | # this will include new lines to allow paragraphs
     For my thesis, I worked on the Genetics and Epigenetics of [T-Cell Acute Lymphoblastic Leukemia](https://www.leukaemiacare.org.uk/support-and-information/information-about-blood-cancer/blood-cancer-information/leukaemia/t-cell-acute-lymphoblastic-leukaemia/). I used DNA-methylation and changes in histone marks (H3K27ac/H3K4me3/H3K4me1) to study normal T-cell and thereby T-ALL development. 
-    | You can find my dissertation [here]( http://archiv.ub.uni-heidelberg.de/volltextserver/30220/1/Mayakonda_PhD-Thesis_2021.pdf).
+  |You can find my dissertation [here](https://doi.org/10.11588/heidok.00030220).
 
 - layout: left
   name: I2IT-Pune
