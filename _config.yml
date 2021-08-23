@@ -27,7 +27,8 @@ darkmode: true
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello there! Thank you for visiting my resume. I am Anand and, I am a post-doc researcher working on the **Genomics and Epigenomics** of myeloid and lymphoid malignancies.
-  | My research interests are in the biology of leukemia, MRD, clonal evolution, and PROTACs. | Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
+  My research interests are in the biology of leukemia, MRD, clonal evolution, and PROTACs. 
+  Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
 
 # Projects Section
 # projects_title: Projects
