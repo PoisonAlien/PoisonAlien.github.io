@@ -1,4 +1,11 @@
 - layout: left
+  company: Arcensus diagnostics
+  job_title: Bioinformatician
+  dates: 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+    Parsing giant messy VCF files all day long. Genomics and population genetics.
+
+- layout: left
   company: CSI-Singapore
   job_title: Bioinformatician
   dates: 2014 - 2017

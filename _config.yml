@@ -26,8 +26,8 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there! Thank you for visiting my resume. I am Anand and, I am a post-doc researcher working on the **Genomics and Epigenomics** of myeloid and lymphoid malignancies.
-  My research interests are in the biology of leukemia, MRD, clonal evolution, and PROTACs. 
+  Hello there! Thank you for visiting my resume. I am Anand and, I Bioinformatician working at [Arcensus](https://arcensus-diagnostics.com).
+  My research interests are in cancer genomics, population genetics, and tool development for open source genomics research. 
   Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
 
 # Projects Section
@@ -42,7 +42,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Academic research you can also find me on [Biostars](https://www.biostars.org/u/6030/). My other hobbies are, 
+  Alongside my research interests you can also find me on [Biostars](https://www.biostars.org/u/6030/). 
+  Followe me on [baseRgraphics](https://twitter.com/baseRgraphics) twitter handle where I tweet pretty plots created using pure base graphics without any dependencies.
+  
+  My other hobbies are, 
    - Reading: checkout my bookshelf on [goodreads](https://www.goodreads.com/user/show/84549956-anand-mayakonda)
    - Running: checkout my runs on [strava](https://www.strava.com/athletes/62414122)
 
