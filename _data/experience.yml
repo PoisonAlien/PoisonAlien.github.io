@@ -3,14 +3,14 @@
   job_title: Bioinformatician
   dates: 2022 - Present
   description: | # this will include new lines to allow paragraphs
-    I am responsible for clinical whole genome sequencing analysis, identifying genetic risk factors, and implementing standardized workflows and machine learning models for ethnicity prediction for underrepresented populations.
+    I am responsible for clinical whole genome sequencing analysis, identifying genetic risk factors, implementing standardized workflows and statistical models (for ethnicity prediction, variant prioritization, in-house biobanks, etc).
 
 - layout: left
   company: CSI-Singapore
   job_title: Bioinformatician
   dates: 2014 - 2017
   description: | # this will include new lines to allow paragraphs
-    I worked as a lead bioinformatician at Prof. Phillip Koeffler’s lab. A few projects I worked on include deciphering the genomic landscape of hematological cancers (AML, APL, B-ALL) during the primary and relapse stages of the disease, and spatial and intratumoral heterogeneity in Lung cancer. I assisted post-doctoral research fellows and clinicians in WGS/WXS data analysis/interpretation.
+    I worked as a lead bioinformatician for Prof. Phillip Koeffler’s lab. A few projects I worked on include deciphering the genomic landscape of hematological cancers (AML, APL, B-ALL), and tumoral heterogeneity in Lung cancer. I assisted post-doctoral research fellows and clinicians in WGS/WXS data analysis/interpretation.
 
 - layout: left
   company: IISER-TVM
