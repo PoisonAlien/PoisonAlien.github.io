@@ -3,18 +3,18 @@
   job_title: Bioinformatician
   dates: 2022 - Present
   description: | # this will include new lines to allow paragraphs
-    Parsing giant messy VCF files all day long. Genomics and population genetics.
+    I am responsible for clinical whole genome sequencing analysis, identifying genetic risk factors, and implementing standardized workflows and machine learning models for ethnicity prediction for underrepresented populations.
 
 - layout: left
   company: CSI-Singapore
   job_title: Bioinformatician
   dates: 2014 - 2017
   description: | # this will include new lines to allow paragraphs
-    I worked as a Research Assistant in Prof. Phillip Koeffler’s lab, on genomic landscape of various hematological cancers (AML, APL, B-ALL) during primary and relapse stages of the disease. I assisted post-doctoral research fellows and clinicians in WGS/WXS data analysis/interpretation.
+    I worked as a lead bioinformatician at Prof. Phillip Koeffler’s lab. A few projects I worked on include deciphering the genomic landscape of hematological cancers (AML, APL, B-ALL) during the primary and relapse stages of the disease, and spatial and intratumoral heterogeneity in Lung cancer. I assisted post-doctoral research fellows and clinicians in WGS/WXS data analysis/interpretation.
 
 - layout: left
   company: IISER-TVM
   job_title: Junior Research Fellow
   dates: 2012 - 2013
   description: | # this will include new lines to allow paragraphs
-    I worked as a Junior Research Fellow in Dr. Nishant KT's lab. I was involved in analysis of whole genome sequencing data generated from over 100 yeast tetrads during meiosis phase. We [measured](https://www.genetics.org/content/199/2/399.long) crossover and gene conversion events by looking at exchange of SNPs and effect of point mutation in *MSH4/5* gene on recombination rate.
+    I worked as a Junior Research Fellow in Dr. Nishant KT's lab. I was involved in the analysis of whole genome sequencing data generated from over 100 yeast tetrads during the meiosis phase. We [measured](https://www.genetics.org/content/199/2/399.long) crossover and gene conversion events by looking at the exchange of SNPs and the effect of a point mutation in *MSH4/5* gene on recombination rate.
