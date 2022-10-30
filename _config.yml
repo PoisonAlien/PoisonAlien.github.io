@@ -26,9 +26,9 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there! Thank you for visiting my resume. I am Anand and, I Bioinformatician working at [Arcensus](https://arcensus-diagnostics.com).
-  My research interests are in cancer genomics, population genetics, and tool development for open source genomics research. 
-  Technically, I am most skilled in <mark>R</mark>, some of <mark>Python</mark> and <mark>Rust</mark>.
+  Hello there! Thank you for visiting my resume. I am Anand and, I am a Bioinformatician working at the Arcensus. |
+  My research interests include cancer genomics, population genetics, and tool development for open-source genomics research. |
+  Technically, I am most skilled in R, some Python, and Rust.
 
 # Projects Section
 # projects_title: Projects
@@ -42,8 +42,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my research interests you can also find me on [Biostars](https://www.biostars.org/u/6030/). 
-  Followe me on [baseRgraphics](https://twitter.com/baseRgraphics) twitter handle where I tweet pretty plots created using pure base graphics without any dependencies.
+  Alongside my research interests, you can also find me on [Biostars](https://www.biostars.org/u/6030/). 
+  Follow me on [baseRgraphics](https://twitter.com/baseRgraphics) Twitter handle where I tweet pretty plots created using pure base graphics without any dependencies.
   
   My other hobbies are, 
    - Reading: checkout my bookshelf on [goodreads](https://www.goodreads.com/user/show/84549956-anand-mayakonda)
