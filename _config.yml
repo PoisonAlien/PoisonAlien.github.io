@@ -26,8 +26,8 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there! Thank you for visiting my resume. I am Anand and, I am a Bioinformatician working at the Arcensus. |
-  My research interests include cancer genomics, population genetics, and tool development for open-source genomics research. |
+  Hello there! Thank you for visiting my resume. I am Anand and, I am a Bioinformatician working at the Arcensus.
+  My research interests include cancer genomics, population genetics, and tool development for open-source genomics research.
   Technically, I am most skilled in R, some Python, and Rust.
 
 # Projects Section
