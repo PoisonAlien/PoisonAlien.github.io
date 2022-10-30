@@ -3,10 +3,9 @@
   dates: 2018 - 2021
   qualification: PhD-Cancer EpiGenomics
   description: | # this will include new lines to allow paragraphs
-    For my thesis, I worked on the Genetics and Epigenetics of [T-Cell Acute Lymphoblastic Leukemia](https://www.leukaemiacare.org.uk/support-and-information/information-about-blood-cancer/blood-cancer-information/leukaemia/t-cell-acute-lymphoblastic-leukaemia/). 
-    I used DNA-methylation and changes in histone marks (H3K27ac/H3K4me3/H3K4me1) to study normal T-cell and thereby T-ALL development. 
-    You can find my dissertation [here](https://doi.org/10.11588/heidok.00030220).
-    You can find my 20 min thesis defense powerpoint [here](https://pdfhost.io/v/pjA5Hwec4_MayakondaAPhDdefense).
+    I worked on the Genetics and Epigenetics of [T-Cell Acute Lymphoblastic Leukemia](https://www.leukaemiacare.org.uk/support-and-information/information-about-blood-cancer/blood-cancer-information/leukaemia/t-cell-acute-lymphoblastic-leukaemia/) for my thesis. 
+    I used DNA-methylation and changes in histone marks (H3K27ac/H3K4me3/H3K4me1) to study normal T-cell and T-ALL development. 
+    You can find my dissertation [here](https://archiv.ub.uni-heidelberg.de/volltextserver/30220/). You can find my 20 min thesis defense PowerPoint [here](https://pdfhost.io/v/pjA5Hwec4_MayakondaAPhDdefense).
 
 
 - layout: left
@@ -14,11 +13,11 @@
   dates: 2010 - 2012
   qualification: MS-Bioinformatics
   description: | # this will include new lines to allow paragraphs
-    During my thesis, I analyzed publically available mRNA microarray data from over 20 human tissues and showed that human testicular transcriptome shares similarities with stem cells.
+    For my thesis, I analyzed publically available mRNA microarray data from over 20 human tissues and showed that human testicular transcriptome shares similarities with stem cells.
 
 - layout: left
   name: VTU-Belagavi
   dates: 2006 - 2010
   qualification: BE-Biotechnology
   description: | # this will include new lines to allow paragraphs
-    During my thesis, we took silk work pupae, crushed them, fractionated them, extracted fatty content, and converted it into Biofuel! It was a cool project (but the whole lab stinked of dead and dried worms for 6 months). We even won second place in a state-level competition.
+    For my thesis, we took silk work pupae, crushed them, fractionated them, extracted fatty content, and converted it into Biofuel! It was a fun project (but the whole lab reeked of dead and dried worms for six months). We even won second place in a state-level competition.
