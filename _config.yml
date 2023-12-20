@@ -26,9 +26,8 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there! Thank you for visiting my resume. I am Anand and, I am a Bioinformatician working at the Arcensus.
+  Hello there! Thank you for visiting my resume. I am Anand and, I am a bioinformatics research group leader at DKFZ/KiTZ.
   My research interests include cancer genomics, population genetics, and tool development for open-source genomics research.
-  Technically, I am most skilled in R, some Python, and Rust.
 
 # Projects Section
 # projects_title: Projects
@@ -46,7 +45,7 @@ more_content: | # this will include new lines to allow paragraphs
   Follow me on [baseRgraphics](https://twitter.com/baseRgraphics) Twitter handle where I tweet pretty plots created using pure base graphics without any dependencies.
   
   My other hobbies are, 
-   - Reading: checkout my bookshelf on [goodreads](https://www.goodreads.com/user/show/84549956-anand-mayakonda)
+   - Reading: check out my bookshelf on [goodreads](https://www.goodreads.com/user/show/84549956-anand-mayakonda)
    - Running: checkout my runs on [strava](https://www.strava.com/athletes/62414122)
 
 # Footer
