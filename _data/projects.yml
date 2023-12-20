@@ -2,13 +2,25 @@
   name: maftools
   github: poisonalien/maftools
   description: | # this will include new lines to allow paragraphs
-    <mark>maftools</mark> is an **R** package for analysing data from large-scale cancer genome projects. This package attempts to summarize, analyze, annotate and visualize [MAF](https://docs.gdc.cancer.gov/Data/File_Formats/MAF_Format/) files in an efficient manner either from TCGA sources or any in-house studies.
+    <mark>maftools</mark> is an **R** package for analysing data from large-scale cancer genome projects. This package attempts to summarize, analyze, annotate, and visualize [MAF](https://docs.gdc.cancer.gov/Data/File_Formats/MAF_Format/) files in an efficient manner either from TCGA sources or any in-house studies.
+
+- layout: top-middle
+  name: trackplot
+  github: poisonalien/trackplot
+  description: | # this will include new lines to allow paragraphs
+    <mark>trackplot</mark> is an **R** is an ultra-fast, simple, and minimal dependency R script to generate IGV style track plots (aka locus plots), profile plots, and heatmaps from bigWig files.
+
+- layout: top-middle
+  name: somaticfreq
+  github: PoisonAlien/somaticfreq
+  description: | # this will include new lines to allow paragraphs
+    <mark>somaticfreq</mark> is a command line tool written in <mark>C</mark> that facilitates getting a quick overlook of known somatic hot spots from tumor BAM files in a matter of minutes, without spending hours on variant calling and annotation.
 
 - layout: top-middle
   name: methrix
   github: CompEpigen/methrix
   description: | # this will include new lines to allow paragraphs
-    <mark>Methrix</mark> is an **R** package for fast and flexible DNA methylation analysis. It reads bedGraph files from bisulfite sequening results and aggregates them into coverage/beta value matrices. It supports both in-memory and on-disk h5 arrays.
+    <mark>Methrix</mark> is an **R** package for flexible DNA methylation analysis. It reads bedGraph files from bisulfite sequencing results and aggregates them into coverage/beta value matrices. It supports both in-memory and on-disk h5 arrays.
 
 - layout: top-middle
   name: TCGAmutations
@@ -17,7 +29,9 @@
     Ever tried working with TCGA mutation datasets? It’s a real pain in the posterior. Well, this package tries to mitigate the issue by providing pre-compiled, curated somatic mutations from 33 TCGA cohorts along with relevant clinical information for all sequenced samples (from [Broad Firehose](http://firebrowse.org/) and TCGA [MC3](https://gdc.cancer.gov/about-data/publications/mc3-2017) Project)
 
 - layout: top-middle
-  name: somaticfreq
-  github: PoisonAlien/somaticfreq
+  name: TCGAmutations
+  github: poisonalien/basegraphics
   description: | # this will include new lines to allow paragraphs
-    <mark>somaticfreq</mark> is a command line tool written in <mark>C</mark> which facilitates to get a quick overlook of known somatic hot-spots from tumor BAM files in a matter of minutes, without spending hours on variant calling and annotation.
+    Do you like Data Visualization and <mark>Rstats</mark>? This project demonstrates the usage of base R graphics (along with code and datasets) to generate visually appealing plots, without any dependencies whatsoever. I also tweet plots [@baseRgraphics](https://twitter.com/baseRgraphics). Make sure to follow there for updates :)
+
+
