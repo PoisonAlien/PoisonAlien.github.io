@@ -1,9 +1,16 @@
 - layout: left
+  company: DKFZ,KiTZ  - Heidelberg
+  job_title: Bioinformatics research group leader
+  dates: 2023 - Present
+  description: | # this will include new lines to allow paragraphs
+    Genomics of childhood cancers (primarily neuroblastoma)
+    
+- layout: left
   company: Arcensus diagnostics
   job_title: Bioinformatician
-  dates: 2022 - Present
+  dates: 2022 - 2023
   description: | # this will include new lines to allow paragraphs
-    I am responsible for clinical whole genome sequencing analysis, identifying genetic risk factors, implementing standardized workflows and statistical models (for ethnicity prediction, variant prioritization, in-house biobanks, etc).
+    I am responsible for clinical whole genome sequencing analysis, identifying genetic risk factors, and implementing standardized workflows and statistical models (for ethnicity prediction, variant prioritization, in-house biobanks, etc).
 
 - layout: left
   company: CSI-Singapore
